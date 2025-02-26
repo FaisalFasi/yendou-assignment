@@ -67,13 +67,17 @@ Chakra UI (for toast notifications)
 Create React App (for bootstrapping the project)
 
 Folder Structure
-Copy
 src/
 ├── components/ # Contains the Counter component
+
 ├── context/ # Contains the CounterContext and CounterProvider and Contains the useCounter custom hook
+
 ├── App.tsx # Main application component
+
 ├── index.tsx # Entry point of the application
+
 └── ... # Other configuration files
+
 How It Works
 The Counter component uses the useCounter hook to access the current count and the increment function.
 
