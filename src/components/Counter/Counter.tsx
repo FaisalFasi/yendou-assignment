@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
-import styles from "./counter.module.css";
+import React from "react";
 import { useCounter } from "../../context/CounterContext";
 import { toaster } from "../ui/toaster";
+import styles from "./counter.module.css";
 
 const Counter: React.FC = () => {
   const { count, increment } = useCounter(); // Use the custom hook
