@@ -13,7 +13,7 @@ This project is a simple React application built with Typescript. It demonstrate
 
 1. Clone the repository:
    ```bash
-   git clone
+   git clone https://github.com/FaisalFasi/yendou-assignment.git
    ```
 
 Navigate to the project directory:
