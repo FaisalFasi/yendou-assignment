@@ -1,0 +1,24 @@
+/* src/components/Counter/Counter.module.css */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  z-index: 100;
+}
+
+.button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #ebecef;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: large;
+}
+
+.countText {
+  font-size: 18px;
+  font-weight: semibold;
+}
