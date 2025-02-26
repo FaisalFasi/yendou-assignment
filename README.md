@@ -19,13 +19,16 @@ This project is a simple React application built with Typescript. It demonstrate
 Navigate to the project directory:
 cd yendou-assignment
 
-Install dependencies:
+### Install dependencies:
+
 npm install
 
-Run the application:
+### Run the application:
+
 npm start
 
-In the project directory, you can run:
+### In the project directory, you can run:
+
 npm start
 
 Runs the app in the development mode.
@@ -35,6 +38,7 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 npm run build
+
 Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
